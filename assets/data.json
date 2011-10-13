@@ -1,0 +1,460 @@
+{
+  "sets": [
+    "base",
+    "common",
+    "intrigue",
+    "prosperity",
+    "seaside"
+  ],
+  "library": {
+    "base": [
+      {
+        "name": "Adventurer",
+        "cost": 6
+      },
+      {
+        "name": "Bureaucrat",
+        "cost": 4
+      },
+      {
+        "name": "Cellar",
+        "cost": 2
+      },
+      {
+        "name": "Chancellor",
+        "cost": 3
+      },
+      {
+        "name": "Chapel",
+        "cost": 2
+      },
+      {
+        "name": "Council Room",
+        "cost": 5
+      },
+      {
+        "name": "Feast",
+        "cost": 4
+      },
+      {
+        "name": "Festival",
+        "cost": 5
+      },
+      {
+        "name": "Gardens",
+        "cost": 4
+      },
+      {
+        "name": "Laboratory",
+        "cost": 5
+      },
+      {
+        "name": "Library",
+        "cost": 5
+      },
+      {
+        "name": "Market",
+        "cost": 5
+      },
+      {
+        "name": "Militia",
+        "cost": 4
+      },
+      {
+        "name": "Mine",
+        "cost": 5
+      },
+      {
+        "name": "Moat",
+        "cost": 2
+      },
+      {
+        "name": "Moneylender",
+        "cost": 4
+      },
+      {
+        "name": "Remodel",
+        "cost": 4
+      },
+      {
+        "name": "Smithy",
+        "cost": 4
+      },
+      {
+        "name": "Spy",
+        "cost": 4
+      },
+      {
+        "name": "Thief",
+        "cost": 4
+      },
+      {
+        "name": "Throne Room",
+        "cost": 4
+      },
+      {
+        "name": "Village",
+        "cost": 3
+      },
+      {
+        "name": "Witch",
+        "cost": 5
+      },
+      {
+        "name": "Woodcutter",
+        "cost": 3
+      },
+      {
+        "name": "Workshop",
+        "cost": 3
+      }
+    ],
+    "intrigue": [
+      {
+        "name": "Baron",
+        "cost": 4
+      },
+      {
+        "name": "Bridge",
+        "cost": 4
+      },
+      {
+        "name": "Conspirator",
+        "cost": 4
+      },
+      {
+        "name": "Coppersmith",
+        "cost": 4
+      },
+      {
+        "name": "Courtyard",
+        "cost": 2
+      },
+      {
+        "name": "Duke",
+        "cost": 5
+      },
+      {
+        "name": "Great Hall",
+        "cost": 3
+      },
+      {
+        "name": "Harem",
+        "cost": 6
+      },
+      {
+        "name": "Ironworks",
+        "cost": 4
+      },
+      {
+        "name": "Masquerade",
+        "cost": 3
+      },
+      {
+        "name": "Mining Village",
+        "cost": 2
+      },
+      {
+        "name": "Minion",
+        "cost": 5
+      },
+      {
+        "name": "Nobles",
+        "cost": 6
+      },
+      {
+        "name": "Pawn",
+        "cost": 2
+      },
+      {
+        "name": "Saboteur",
+        "cost": 5
+      },
+      {
+        "name": "Secret Chamber",
+        "cost": 2
+      },
+      {
+        "name": "Scout",
+        "cost": 4
+      },
+      {
+        "name": "Shanty Town",
+        "cost": 3
+      },
+      {
+        "name": "Steward",
+        "cost": 3
+      },
+      {
+        "name": "Swindler",
+        "cost": 3
+      },
+      {
+        "name": "Torturer",
+        "cost": 5
+      },
+      {
+        "name": "Trading Post",
+        "cost": 5
+      },
+      {
+        "name": "Tribute",
+        "cost": 5
+      },
+      {
+        "name": "Upgrade",
+        "cost": 5
+      },
+      {
+        "name": "Wishing Well",
+        "cost": 3
+      }
+    ],
+    "prosperity": [
+      {
+        "name": "Bank",
+        "cost": 7
+      },
+      {
+        "name": "Bishop",
+        "cost": 4
+      },
+      {
+        "name": "City",
+        "cost": 5
+      },
+      {
+        "name": "Contraband",
+        "cost": 5
+      },
+      {
+        "name": "Counting House",
+        "cost": 5
+      },
+      {
+        "name": "Expand",
+        "cost": 7
+      },
+      {
+        "name": "Forge",
+        "cost": 7
+      },
+      {
+        "name": "Goons",
+        "cost": 2
+      },
+      {
+        "name": "Grand Market",
+        "cost": 5
+      },
+      {
+        "name": "Hoard",
+        "cost": 6
+      },
+      {
+        "name": "King's Court",
+        "cost": 7
+      },
+      {
+        "name": "Loan",
+        "cost": 3
+      },
+      {
+        "name": "Mint",
+        "cost": 5
+      },
+      {
+        "name": "Monument",
+        "cost": 4
+      },
+      {
+        "name": "Mountebank",
+        "cost": 5
+      },
+      {
+        "name": "Quarry",
+        "cost": 4
+      },
+      {
+        "name": "Peddler",
+        "cost": 8
+      },
+      {
+        "name": "Rabble",
+        "cost": 5
+      },
+      {
+        "name": "Royal Seal",
+        "cost": 5
+      },
+      {
+        "name": "Talisman",
+        "cost": 4
+      },
+      {
+        "name": "Trade Route",
+        "cost": 3
+      },
+      {
+        "name": "Vault",
+        "cost": 5
+      },
+      {
+        "name": "Venture",
+        "cost": 5
+      },
+      {
+        "name": "Watchtower",
+        "cost": 3
+      },
+      {
+        "name": "Worker's Village",
+        "cost": 4
+      }
+    ],
+    "seaside": [
+      {
+        "name": "Ambassador",
+        "cost": 3
+      },
+      {
+        "name": "Bazaar",
+        "cost": 5
+      },
+      {
+        "name": "Caravan",
+        "cost": 4
+      },
+      {
+        "name": "Cutpurse",
+        "cost": 4
+      },
+      {
+        "name": "Embargo",
+        "cost": 2
+      },
+      {
+        "name": "Explorer",
+        "cost": 5
+      },
+      {
+        "name": "Fishing Village",
+        "cost": 3
+      },
+      {
+        "name": "Ghost Ship",
+        "cost": 2
+      },
+      {
+        "name": "Haven",
+        "cost": 2
+      },
+      {
+        "name": "Island",
+        "cost": 4
+      },
+      {
+        "name": "Lighthouse",
+        "cost": 2
+      },
+      {
+        "name": "Lookout",
+        "cost": 3
+      },
+      {
+        "name": "Merchant Ship",
+        "cost": 2
+      },
+      {
+        "name": "Native Village",
+        "cost": 2
+      },
+      {
+        "name": "Navigator",
+        "cost": 4
+      },
+      {
+        "name": "Outpost",
+        "cost": 5
+      },
+      {
+        "name": "Pearl Diver",
+        "cost": 2
+      },
+      {
+        "name": "Pirate Ship",
+        "cost": 4
+      },
+      {
+        "name": "Salvager",
+        "cost": 4
+      },
+      {
+        "name": "Sea Hang",
+        "cost": 2
+      },
+      {
+        "name": "Smugglers",
+        "cost": 3
+      },
+      {
+        "name": "Tactician",
+        "cost": 5
+      },
+      {
+        "name": "Treasure Map",
+        "cost": 4
+      },
+      {
+        "name": "Treasury",
+        "cost": 2
+      },
+      {
+        "name": "Warehouse",
+        "cost": 3
+      },
+      {
+        "name": "Wharf",
+        "cost": 5
+      }
+    ],
+    "common": [
+      {
+        "name": "Copper",
+        "cost": 0,
+        "value": 1
+      },
+      {
+        "name": "Curse",
+        "cost": 0,
+        "points": -1
+      },
+      {
+        "name": "Duchy",
+        "cost": 5,
+        "points": 3
+      },
+      {
+        "name": "Estate",
+        "cost": 2,
+        "points": 1
+      },
+      {
+        "name": "Gold",
+        "cost": 6,
+        "value": 3
+      },
+      {
+        "name": "Province",
+        "cost": 8,
+        "points": 6
+      },
+      {
+        "name": "Silver",
+        "cost": 3,
+        "value": 2
+      }
+    ]
+  }
+}
