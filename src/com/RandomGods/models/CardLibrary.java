@@ -1,16 +1,14 @@
 package com.RandomGods.models;
 
 public class CardLibrary {
-	private static CardLibrary _instance = null;
-
 	private CardLibrary() {
-		
 	}
 	
 	public CardLibrary getInstance() {
-		if(_instance != null)
-			return _instance;
-		else
-			return _instance = new CardLibrary();
+		return LibraryInstance._instance;
+	}
+	
+	private static class LibraryInstance {
+		static final CardLibrary _instance = new CardLibrary();
 	}
 }

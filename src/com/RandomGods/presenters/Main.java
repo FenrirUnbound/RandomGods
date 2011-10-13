@@ -13,10 +13,11 @@ public class Main extends Activity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		
-		CardBuilder builder = new CardBuilder();
+		
+		CardBuilder builder = new CardBuilder(this.getApplicationContext());
 		String output = null;
 		try {
-			output = builder.parse(getAssets());
+			output = builder.parse(this.getApplication().getAssets());
 		} catch(IOException e) {
 			e.printStackTrace();
 		}
